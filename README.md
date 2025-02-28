@@ -6,4 +6,4 @@
 
 This repository contains code for running the simulations and producing the figures from our paper.
 
-⚠️ **Note: Code upload is in progress!.**
+⚠️ **Note: Code upload is in progress!**
