@@ -10,6 +10,7 @@ This repository contains code for simulations and figures from our paper "Struct
 
 ### Notebooks for Figure Generation
 - **Figs. 3, 4**: `paper-notebooks/fixed-points.ipynb`
+- **Fig. 4** (a and b): `paper-notebooks/dmft_figs.ipynb`
 - **Fig. 5**: `paper-notebooks/heatmaps.ipynb`
 - **Fig. 6** (and appendix figure "Relationship between disorder and current-variable dynamic complexity..."): `paper-notebooks/shaping-dynamics.ipynb`
 - **Appendix Fig on input flips**: `input-flip.ipynb`
